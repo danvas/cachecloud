@@ -1,6 +1,6 @@
 # cache cloud
 
-While learning Python, I wrote a Maya utility for point cloud animation. It creates Maya Particle Disk Cache (.pdc) files from a sequence of point cloud data; and also gives you the choice of importing a single point cloud. It could be useful with all the open source data being released from Kinect hacks or 3D scanners.
+While learning Python in 2012, I wrote a Maya utility for point cloud animation. It creates Maya Particle Disk Cache (.pdc) files from a sequence of point cloud data; and also gives you the choice of importing a single point cloud. It could be useful with all the open source data being released from Kinect hacks or 3D scanners.
 
 ### Demo
 
