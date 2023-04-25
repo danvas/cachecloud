@@ -4,8 +4,7 @@ While learning Python, I wrote a Maya utility for point cloud animation. It crea
 
 ### Demo
 
-<div>
-<iframe src="https://player.vimeo.com/video/21473278?h=67dc9adac1" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/21473278">Cache cloud thom.</a> from <a href="https://vimeo.com/danielvasquez">Daniel Vasquez</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-</div>
+[![IMAGE ALT TEXT HERE](https://i.vimeocdn.com/video/138156003-11e2ff755a48339bdfd55f8bd3d3e8248b41c3eebbe6e2eb73b08de05f3093b6-d?mw=1920&mh=1080&q=70)](https://vimeo.com/21473278)
+
+<sub>(Click image to redirect to demo video)</sub>
 
